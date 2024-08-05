@@ -1,0 +1,32 @@
+#point_titre {
+    height: 20px;
+    width: 20px;
+    background-color: rgb(236, 211, 195);
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+#titre {
+    color: brown;
+    font-size:x-large;
+
+}
+
+#hey{
+font-size: xx-large;
+text-align: right;
+}
+
+.description {
+    text-align: center;
+    
+    /* display:inline-block;
+    width:100%;
+    vertical-align:top; */
+}
+
+img {
+    border-radius: 50%;
+
+}
